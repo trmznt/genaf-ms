@@ -1,2 +1,4 @@
 # genaf-ms
-GenAF-SNP - Genotyping Analytical Framework for microsatellite data
+GenAF-MS - Genotyping Analytical Framework for microsatellite data
+
+Requires genaf-base.
